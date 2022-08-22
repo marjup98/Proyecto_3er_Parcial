@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_3er_Parcial_Test", "Proyecto_3er_Parcial_Test.csproj", "{E13A31FA-2D4D-4F4F-AA5C-27CEB0A76CD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E13A31FA-2D4D-4F4F-AA5C-27CEB0A76CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13A31FA-2D4D-4F4F-AA5C-27CEB0A76CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13A31FA-2D4D-4F4F-AA5C-27CEB0A76CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13A31FA-2D4D-4F4F-AA5C-27CEB0A76CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
